@@ -1,0 +1,3 @@
+org\doyatama\App.class
+org\doyatama\ChannelMapper.class
+org\doyatama\ChannelReducer.class
